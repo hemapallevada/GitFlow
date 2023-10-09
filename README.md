@@ -1,3 +1,3 @@
 # GitFlow
 
-Update check
+Update check with PR approval
